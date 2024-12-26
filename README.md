@@ -8,15 +8,35 @@ I'm an AI/Automation Consultant at HP with a passion for leveraging data science
 
 <h3 align="left">You can find my projects here:</h3>
 
-| Project Type | Summary |
-| ------------- | ------------- |
-|[Google Scholar](https://scholar.google.com/citations?hl=en&user=HDwCSLsAAAAJ&view_op=list_works&gmla=ABEO0YoNjlo3qozDriwXWgvx6K2V3vxxiNydOi12af3QGAUlEWqBN0BgcfvQPldb7S1ujIx-SKys0bbhaZQVmAtd) | My papers and research output |
-| [Newsletter ](https://youssefh.substack.com/)  | My data science & AI newsletter  |
-|[E-Books & Courses](https://youssefhosni.gumroad.com/)| My data science and AI e-books and courses |
-| [Medium ](https://medium.com/@yousefhosni)  | My data science blog where I write data science articles   |
-| [Mentoring ](https://topmate.io/youssef_hosni)  |I offer data science career mentoring and CV & portfolio feedback |
-| [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I share data science interview questions and practical machine learning tips|
-| [Twitter ](https://twitter.com/Youssef70125494)  |  I share data science interview questions and practical machine learning tips  |
+# Project Portfolio Outline
+
+This outline provides a structured overview of planned projects, categorized by data science focus. Use the checklist to track progress on each type and specific project.
+
+| Category                     | Project Type                       | Summary                                                                                                   | Status    |
+| :--------------------------- | :--------------------------------- | :---------------------------------------------------------------------------------------------------------- | :-------- |
+| **Data Analysis & Visualization** | Exploratory Data Analysis (EDA)      |  Perform EDA on a chosen dataset. Document process, insights, and visualizations.             | [ ] |
+|                              | Interactive Dashboards            | Build interactive dashboards with Plotly Dash or Streamlit to explore data.                                | [ ] |
+|                              | Geospatial Analysis               | Create maps and identify trends using geographic data.                                                   | [ ] |
+|                              | Storytelling with Data           | Present data insights in a narrative format with visualizations and explanations.                         | [ ] |
+| **Machine Learning (Supervised)** | Classification                     | Build models for tasks like spam detection, image classification, or sentiment analysis.           | [ ] |
+|                              | Regression                         | Build models for tasks like predicting housing prices or sales forecasting.                             | [ ] |
+|                              | Time Series Forecasting           | Build models for tasks like predicting stock prices, weather, or demand.                            | [ ] |
+| **Machine Learning (Unsupervised)** | Clustering                        | Use clustering algorithms for tasks like customer segmentation or anomaly detection.                       | [ ] |
+|                              | Dimensionality Reduction          |  Use techniques for feature selection and visualizing high-dimensional data.                  | [ ] |
+|                              | Anomaly Detection                 | Implement methods to detect anomalies in datasets (fraud detection, network intrusions).                   | [ ] |
+| **Natural Language Processing (NLP)** | Text Classification               | Build models for sentiment analysis of tweets or document categorization.                             | [ ] |
+|                              | Text Summarization                | Develop techniques for summarizing text (articles, abstracts).                                             | [ ] |
+|                              | Topic Modeling                    | Discover topics in document collections, analyze customer reviews, and more.                             | [ ] |
+|                              | Named Entity Recognition (NER)    | Build models to extract names, organizations, and locations from text.                                      | [ ] |
+| **Deep Learning**            | Image Classification              | Build and train CNNs for tasks such as identifying objects in images.                                   | [ ] |
+|                              | Object Detection                  | Implement models to detect and locate objects in images.                                                     | [ ] |
+|                              | Natural Language Understanding (NLU)| Implement text generation and question answering models using Transformer architectures.                      | [ ] |
+|                              | Time Series Forecasting with RNNs |  Implement time series forecasting models using RNNs or LSTMs                                | [ ] |
+| **Data Engineering**         | Data Pipeline with Airflow/Luigi   | Ingest data from multiple sources, transform it, and load it into a data warehouse.                 | [ ] |
+|                              | Cloud-Based Data Warehousing       | Use services like AWS Redshift or Google BigQuery to store and analyze large datasets.                   | [ ] |
+|                              | ETL Processes                    | Implement scripts to clean and transform messy data.                                                    | [ ] |
+| **End-to-End Projects**      | Machine Learning Application      | Combine data preprocessing, model building, evaluation, and deployment into a full application.        | [ ] |
+|                              | Data-Driven Website/Blog          | Build a website or blog that showcases your data analysis and storytelling skills.                      | [ ] |
 
 
 <h3 align="left">Languages and Tools:</h3>
