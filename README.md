@@ -74,10 +74,10 @@ This outline provides a structured overview of planned projects, categorized by 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
   </a>
    <a href="https://www.uipath.com/studiox" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/uipath/uipath-icon.svg" alt="uipath" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/UiPath_Logo_2021.svg/2560px-UiPath_Logo_2021.svg.png" alt="uipath" width="40" height="40"/>
   </a>
   <a href="https://www.automationanywhere.com/" target="_blank" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/automationanywhere/automationanywhere-icon.svg" alt="automationanywhere" width="40" height="40"/>
+     <img src="https://www.automationanywhere.com/images/aa-logo-color.svg" alt="automationanywhere" width="40" height="40"/>
   </a>
 </p>
 
