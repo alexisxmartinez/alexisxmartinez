@@ -39,6 +39,7 @@ This outline provides a structured overview of planned projects, categorized by 
 
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -70,59 +71,14 @@ This outline provides a structured overview of planned projects, categorized by 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
-  </a>
-  <a href="https://xgboost.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-      <img src="https://xgboost.readthedocs.io/en/stable/_static/xgboost-logo.png" alt="xgboost" width="40" height="40"/>
-   </a>
-    <a href="https://lightgbm.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-      <img src="https://lightgbm.readthedocs.io/en/latest/_static/lightgbm_logo.svg" alt="lightgbm" width="40" height="40"/>
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
    </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
-  </a>
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.nltk.org/_static/nltk3-logo.svg" alt="nltk" width="40" height="40"/>
-   </a>
-   <a href="https://spacy.io/" target="_blank" rel="noreferrer">
-    <img src="https://spacy.io/assets/img/spacy-logo.png" alt="spacy" width="40" height="40"/>
-  </a>
-    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-     <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/apache-airflow.png" alt="airflow" width="40" height="40"/>
-   </a>
-    <a href="https://luigi.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-     <img src="https://luigi.readthedocs.io/en/stable/_static/luigi-logo-white.svg" alt="luigi" width="40" height="40"/>
-   </a>
-   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
-   </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Cloud_Platform_logo.svg" alt="gcp" width="40" height="40"/>
-  </a>
-    <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Azure_logo.svg" alt="azure" width="40" height="40"/>
-   </a>
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer">
-    <img src="https://plotly.com/static/images/plotly-icon.svg" alt="plotly" width="40" height="40"/>
-  </a>
-    <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer">
-    <img src="https://flask.palletsprojects.com/en/2.3.x/_static/flask-logo.png" alt="flask" width="40" height="40"/>
-  </a>
-   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-margin-256.png" alt="fastapi" width="40" height="40"/>
-  </a>
-     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/>
-  </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.docker.com/wp-content/uploads/2023/08/horizontal-logo-monochrome-white.svg" alt="docker" width="40" height="40"/>
-    </a>
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.sqlite.org/images/sqlite370x.gif" alt="sqlite" width="40" height="40"/>
   </a>
 </p>
 
