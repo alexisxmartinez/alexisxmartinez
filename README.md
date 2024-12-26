@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Alexis Martinez 👋</h1> 
+<h1 align="left">Hi, I'm Alexis 👋</h1> 
 
 I'm an AI/Automation Consultant at HP with a passion for leveraging data science to drive business process improvements. My background spans automation, RPA development, and data analysis, enabling me to create efficient solutions and foster innovation. This GitHub profile showcases my journey in developing data-driven solutions through machine learning, data analysis, and automation technologies.
 
