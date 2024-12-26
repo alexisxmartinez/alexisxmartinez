@@ -7,8 +7,9 @@ I'm an AI/Automation Consultant at HP with a passion for leveraging data science
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/codingkoatl)
 
 
-## You can find my projects here: ##
-## [Data Science Portoflio]([https://github.com/youssefHosni/Data-Science-Portofolio](https://github.com/alexisxmartinez/DS_Portfolio) ##
+## You can find my projects here
+
+## [Data Science Portfolio](https://github.com/alexisxmartinez/DS_Portfolio)
 
 
 
