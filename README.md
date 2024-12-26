@@ -16,7 +16,6 @@ This outline provides a structured overview of planned projects, categorized by 
 | **Data Analysis & Visualization** | Exploratory Data Analysis (EDA)      |  Perform EDA on a chosen dataset. Document process, insights, and visualizations.             | [ ] |
 |                              | Interactive Dashboards            | Build interactive dashboards with Plotly Dash or Streamlit to explore data.                                | [ ] |
 |                              | Geospatial Analysis               | Create maps and identify trends using geographic data.                                                   | [ ] |
-|                              | Storytelling with Data           | Present data insights in a narrative format with visualizations and explanations.                         | [ ] |
 | **Machine Learning (Supervised)** | Classification                     | Build models for tasks like spam detection, image classification, or sentiment analysis.           | [ ] |
 |                              | Regression                         | Build models for tasks like predicting housing prices or sales forecasting.                             | [ ] |
 |                              | Time Series Forecasting           | Build models for tasks like predicting stock prices, weather, or demand.                            | [ ] |
