@@ -10,6 +10,7 @@ I'm an AI/Automation Consultant at HP with a passion for leveraging data science
 ## You can find my projects here
 ## [Data Science Portfolio](https://github.com/alexisxmartinez/DS_Portfolio)
 
+
 <h3 align="left">Connect with me:</h3>
 
 | Media  | Summary |
