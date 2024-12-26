@@ -1,16 +1,15 @@
-<h1 align="left">Hi, I'm Youssef Hosni 👋</h1> 
-I am a senior Data Scientist and machine learning researcher. I am passionate about data and believe in AI's power to improve people's lives. I want to transfer my passion to others and guide them into this vast field through writing, teaching, and mentoring.
+<h1 align="left">Hi, I'm Alexis Martinez 👋</h1> 
+
+I'm an AI/Automation Consultant at HP with a passion for leveraging data science to drive business process improvements. My background spans automation, RPA development, and data analysis, enabling me to create efficient solutions and foster innovation. This GitHub profile showcases my journey in developing data-driven solutions through machine learning, data analysis, and automation technologies.
 
 ## You can follow me here ##
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hosni-b2960b135/)
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://youssefh.substack.com/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yousefhosni)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/youssef19)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/youssef-hosni-b2960b135/](https://www.linkedin.com/in/alexis-martinez-g/))
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]([https://www.kaggle.com/youssef19](https://www.kaggle.com/codingkoatl)
+
 
 
 ## You can find my projects here: ##
-## [Data Science Portoflio](https://github.com/youssefHosni/Data-Science-Portofolio) ##
+## [Data Science Portoflio]([https://github.com/youssefHosni/Data-Science-Portofolio](https://github.com/alexisxmartinez/DS_Portfolio) ##
 
 
 
