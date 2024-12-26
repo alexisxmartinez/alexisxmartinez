@@ -6,12 +6,7 @@ I'm an AI/Automation Consultant at HP with a passion for leveraging data science
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-martinez-g)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/codingkoatl)
 
-
-## You can find my projects here
-## [Data Science Portfolio](https://github.com/alexisxmartinez/DS_Portfolio)
-
-
-<h3 align="left">Specific Projects are here:</h3>
+<h3 align="left">You can find my projects here:</h3>
 
 | Media  | Summary |
 | ------------- | ------------- |
