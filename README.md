@@ -2,12 +2,12 @@
 
 I'm an AI/Automation Consultant at HP with a passion for leveraging data science to drive business process improvements. My background spans automation, RPA development, and data analysis, enabling me to create efficient solutions and foster innovation. This GitHub profile showcases my journey in developing data-driven solutions through machine learning, data analysis, and automation technologies.
 
-## You can follow me here ##
+## Social ##
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-martinez-g)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/codingkoatl)
 
 
-# Project Portfolio Outline
+# Projects
 
 This outline provides a structured overview of planned projects, categorized by data science focus. Use the checklist to track progress on each type and specific project.
 
