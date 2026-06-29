@@ -5,6 +5,7 @@
 - 🤖 I own an AI/automation product portfolio at a Fortune 100 technology company — agentic AI, RPA, and the Microsoft Power Platform.
 - 🚀 I take enterprise AI applications from architecture and security review all the way to production.
 - 🧪 I evaluate frontier models (Claude, Copilot) for ROI and production fit — eval design, build-vs-buy, responsible AI.
+- 🎓 M.S. Data Science · B.S. Computer Systems Engineering · Google Cloud ML/AI certified.
 - 🌎 Based in Guadalajara, Mexico · Bilingual EN/ES · Open to AI PM / Senior PM roles.
 
 ### What I work on
